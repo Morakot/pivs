@@ -10,6 +10,16 @@ A VS Code extension that brings the [Pi coding agent](https://github.com/earendi
 
 Pi for VS Code provides a focused sidebar chat for working with Pi while keeping your editor, Explorer, source control, and project context close at hand.
 
+## Screenshots
+
+### Chat
+
+![Pi chat](./assets/screenshots/chat.jpg)
+
+### Session tree
+
+![Pi session tree](./assets/screenshots/session-tree.jpg)
+
 ## Features
 
 - Chat with Pi in a dedicated VS Code sidebar.
@@ -23,7 +33,7 @@ Pi for VS Code provides a focused sidebar chat for working with Pi while keeping
 
 ## Install
 
-Install **Pi for VS Code** from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=boki.vscode-pi).
+Install **Pi for VS Code** from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=boki.pivs).
 
 You also need a working Pi installation with a configured model and API key.
 
@@ -84,6 +94,7 @@ This repository currently provides project information, documentation, release u
 ## Disclaimer
 
 Pi for VS Code is an independent project and is not affiliated with or endorsed by the Pi project or its maintainers.
+Because Pi supports highly flexible extensions, Pi for VS Code cannot guarantee compatibility with every Pi extension.
 
 ## License
 

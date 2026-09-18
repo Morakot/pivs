@@ -8,6 +8,17 @@
 
 Pi for VS Code 提供专注的侧边栏聊天界面，让你可以在保留编辑器、Explorer、源代码管理和项目上下文的同时使用 Pi。
 
+
+## 截图
+
+### 聊天界面
+
+![Pi 聊天界面](./assets/screenshots/chat.jpg)
+
+### 会话树
+
+![Pi 会话树](./assets/screenshots/session-tree.jpg)
+
 [English](README.md)
 
 ## 功能
@@ -23,7 +34,7 @@ Pi for VS Code 提供专注的侧边栏聊天界面，让你可以在保留编�
 
 ## 安装
 
-从 [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=boki.vscode-pi) 安装 **Pi for VS Code**。
+从 [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=boki.pivs) 安装 **Pi for VS Code**。
 
 你还需要安装并配置可用的 Pi，包括模型和 API Key。
 
@@ -86,6 +97,7 @@ Pi for VS Code 目前仍处于早期开发阶段。
 ## 免责声明
 
 Pi for VS Code 是一个独立项目，与 Pi 项目及其维护者没有隶属、合作或官方认可关系。
+由于 Pi 支持高度灵活的扩展机制，Pi for VS Code 无法保证与所有 Pi 扩展兼容。
 
 ## 许可证
 
