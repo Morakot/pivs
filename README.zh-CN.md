@@ -11,13 +11,16 @@ Pi for VS Code 提供专注的侧边栏聊天界面，让你可以在保留编�
 
 ## 截图
 
-### 聊天界面
-
-![Pi 聊天界面](./assets/screenshots/chat.jpg)
-
-### 会话树
-
-![Pi 会话树](./assets/screenshots/session-tree.jpg)
+<table>
+  <tr>
+    <td align="center"><strong>聊天界面</strong></td>
+    <td align="center"><strong>会话树</strong></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/screenshots/chat.jpg" width="400" alt="Pi 聊天界面"></td>
+    <td><img src="./assets/screenshots/session-tree.jpg" width="400" alt="Pi 会话树"></td>
+  </tr>
+</table>
 
 [English](README.md)
 

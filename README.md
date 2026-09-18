@@ -12,13 +12,16 @@ Pi for VS Code provides a focused sidebar chat for working with Pi while keeping
 
 ## Screenshots
 
-### Chat
-
-![Pi chat](./assets/screenshots/chat.jpg)
-
-### Session tree
-
-![Pi session tree](./assets/screenshots/session-tree.jpg)
+<table>
+  <tr>
+    <td align="center"><strong>Chat</strong></td>
+    <td align="center"><strong>Session tree</strong></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/screenshots/chat.jpg" width="400" alt="Pi chat"></td>
+    <td><img src="./assets/screenshots/session-tree.jpg" width="400" alt="Pi session tree"></td>
+  </tr>
+</table>
 
 ## Features
 
